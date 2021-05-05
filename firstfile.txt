@@ -1,0 +1,2 @@
+to create a txt file use command type nul > fileName.txt
+or type nul > filename.js or html whatever you want
